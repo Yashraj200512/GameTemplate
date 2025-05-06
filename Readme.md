@@ -9,4 +9,4 @@ after that if cmake doesn't automatically write build files then select your com
 cmake --build build(by deafult in Debug directory) for release use cmake --build build --config Release
 
 ## 2 Run(go to Debug or Release directory and run) //whichver you have
-- ./build/Debug/your_program.exe
+- ./build/Debug/game.exe
